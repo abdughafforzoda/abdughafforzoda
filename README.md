@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **any project that can give me boost on my technical skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdughafforzoda](https://github.com/abdughafforzoda)
-
 - 💬 Ask me about **java, spring, and data-base**
 
 - 📫 How to reach me **yusufchilling33@gmailcom**
